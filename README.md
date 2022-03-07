@@ -1,6 +1,6 @@
 ### 👋 Hi Everyone!
 
-![image]https://resources.github.com/assets/img/webcasts/github-standard-banner.png
+<img src="https://resources.github.com/assets/img/webcasts/github-standard-banner.png" alt="rip jenny mod website lol">
 
 ## What I Do 👨‍💻
 
