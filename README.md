@@ -1,6 +1,5 @@
 ### 👋 Hi Everyone!
 
-<img src="https://resources.github.com/assets/img/webcasts/github-standard-banner.png" alt="rip jenny mod website lol">
 
 ![WolfHex's GitHub stats](https://github-readme-stats.vercel.app/api?username=WolfHex&show_icons=true&theme=synthwave)
 
