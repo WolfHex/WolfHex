@@ -13,4 +13,4 @@
 ## How to text me 📱
 - DM me on Telegram @MrCane
 - Tweet me on [Twitter](https://twitter.com/CaneUbriaco/)
-- Text Me on Discord @Hex#5373
+- Text Me on Discord ! Hex#5373
