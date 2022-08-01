@@ -9,7 +9,3 @@
 - 🖼️ Creating App/Web templates, you can find some preview on my [Twitter](https://twitter.com/CaneUbriaco)
 - 📕 Studying to be a C# Javascript and Python developer!
 - 🦍 Making malware for fun
-
-## How to text me 📱
-- Tweet me on [Twitter](https://twitter.com/CaneUbriaco/)
-- Text Me on Discord ! MrCane#5373
