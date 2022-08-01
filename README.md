@@ -12,4 +12,4 @@
 
 ## How to text me 📱
 - Tweet me on [Twitter](https://twitter.com/CaneUbriaco/)
-- Text Me on Discord ! Hex#5373
+- Text Me on Discord ! MrCane#5373
