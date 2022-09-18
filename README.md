@@ -3,6 +3,6 @@
 
 ## What I Do 👨‍💻
 
-- 💻 C C++ Python Developer
+- 💻 C C++ Python Swift Developer
 - 🐍 Learning C# and HTML
 - 🦍 Making malware for fun
