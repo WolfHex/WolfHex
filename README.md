@@ -3,4 +3,4 @@
 
 - 💻 C C++ Python Swift Developer
 - 🐍 Learning C# and HTML
-- 🦍 Making malware for fun
+- 🦍 Coding malware for fun
